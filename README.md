@@ -7,7 +7,7 @@ Welcome to my profile!
 - 🌱 I’m currently learning NextJS & reactJS!
 - 👯 I’m looking to collaborate on small open source projcts!
 - 📫 How to reach me: Discord: SirLynx_#1526 
-- 💻 Fun fact: I have been programming since I was 11!
+- 💻 I have been programming since I was 11!
 
 ### 🛠 Languages and tech I use/know!
 

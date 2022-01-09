@@ -14,4 +14,4 @@ Welcome to my profile!
 - Java | C# | Electron JS
 
 ### 🚀 My projects
-- [label](https://github.com/SirLynx/VanillaExtended) A lightweight mod for additions and improvement to minecraft 1.17 and up!
+- [VanillaExtended](https://github.com/SirLynx/VanillaExtended) | A lightweight mod for additions and improvement to minecraft 1.17 and up!

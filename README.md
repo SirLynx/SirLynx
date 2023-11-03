@@ -10,8 +10,7 @@ Welcome to my profile!
 
 ### 🛠 Languages and tech I use/know!
 
-- Javascript | PHP | CSS | HTML | Python
-- Java | C# | Electron JS
+- Javascript | CSS | HTML | Python
 
 ### 🚀 My projects
 - [VanillaExtended](https://github.com/SirLynx/VanillaExtended) | A lightweight mod for additions and improvement to minecraft 1.17 and up!
